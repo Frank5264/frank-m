@@ -1,0 +1,35 @@
+API_ID: 20038826
+API_HASH: 1ac6a2ecb8849302a5856c7bbad48d28
+BOT_TOKEN: 5931370930:AAHDu7cNN-SKi8Xo-dOF866i4fBGgK1kx-0
+
+
+MONGO_URL: mongodb+srv://Frank:zxcqwe321@frank.djn1wth.mongodb.net/?retryWrites=true&w=majority
+REDIS_URI: redis-12903.c11.us-east-1-3.ec2.cloud.redislabs.com
+REDIS_PORT: 12903
+REDIS_PASS: KIdn6I57sc9700Jw3par1KeBD8mfAXAI
+
+SESSION_API_ID: 20038826
+SESSION_API_HASH: 1ac6a2ecb8849302a5856c7bbad48d28
+SESSION_STRING: 1BJWap1wBu2VrntXL4CdZiGqkgZYmqHkWCVkHtY3_PgiMa4n79TPXFSAZwCpvAYE7S2OhJXkfQIDhPGQAc-V5b3BbMFHxi6XlNVrDweWXDT_Kxl46ii1bwdYzuTTNRPqQ_TE6k9WNJpUHJaEdDPUt4yDjnm8MDk4Kmrervk-T1PdRkXUlwbtmEpV6i0sIklkc6PrBMNMdq1IP6SXAOC5bStDMg16OsPnjTho0emia912_sMjLViu_mXHaJoBKnQ_lC1rLFEJ1ciHvQd6Nt2iFJ6e4q-XJAEOpo4BA_FSEFt4vaKlfhmTFhktH02O0wrQ_zxNPg9x9NAA8MDPaTS_ASBOvmnYWyiQ=
+
+ADMINS: 
+  - 1256293459
+
+OWNER: 1256293459
+
+BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+
+
+SUPPORT_CHAT: cheker_frank
+# LOG_CHAT: 
+LOG_CHAT: 
+
+
+
+HANDLERS: 
+  - "."
+  - "!"
+  - "/"
+  - "?"
+
